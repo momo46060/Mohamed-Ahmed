@@ -17,7 +17,7 @@ Currently working as a <b>Senior Android Developer</b>, I am passionate about mo
 - RESTful API integration, JSON, XML, RXJava, Coroutines  
 - Location Services, Google Maps, Navigation architecture  
 - Unit Testing, Android Testing, Git, GitHub  
-- Agile methodologies (SCRUM), Jira, Android Studio  
+- Android Studio  
 
 ### **Backend Development (Spring Boot)**  
 - Spring Boot 3, Spring MVC, Spring Security, JWT Authentication, OAuth2  
